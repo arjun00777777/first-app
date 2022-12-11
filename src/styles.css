@@ -1,0 +1,40 @@
+.con {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.card {
+  box-shadow: 0px 0px 0px 2px DarkTurquoise;
+  background-color: aqua;
+  border-radius: 15px;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  margin-top: 0px;
+}
+.zero img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  border: 5px solid white;
+  margin-left: 170px;
+  margin-top: -70px;
+}
+.first {
+  background-color: turquoise;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.first h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  color: whitesmoke;
+  overflow: hidden;
+}
+.bottom {
+  margin-left: 20px;
+  margin-top: -40px;
+  overflow: hidden;
+}
